@@ -22,7 +22,7 @@
 					<section class="intro">
 						<header>
 							<h1>개발하는 차영빈</h1>
-							<p><h3>포토폴리오</h3><a href="https://www.instagram.com/chabiri">@chabiri</a> / <a href="https://github.com/chyb627">my git</a></p>
+							<p><h2>포토폴리오</h2><a href="http://13.124.211.186/index.php">구글클론사이트</a><!-- / <a href="https://github.com/chyb627">my git</a>--></p>
 							<ul class="actions">
 								<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
 							</ul>
