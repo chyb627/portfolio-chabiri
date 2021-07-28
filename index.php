@@ -22,7 +22,7 @@
 					<section class="intro">
 						<header>
 							<h1>개발하는 차영빈</h1>
-							<p><h2>포토폴리오</h2><a href="http://13.124.211.186/index.php">구글클론사이트</a><!-- / <a href="https://github.com/chyb627">my git</a>--></p>
+							<p><h2>포토폴리오</h2><br><a href="https://chyb627.devdojo.com">🔥블로그🔥</a> <br> <a href="http://13.124.211.186/index.php">🔥구글 클론 사이트🔥</a></p>
 							<ul class="actions">
 								<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
 							</ul>
@@ -448,6 +448,7 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 										<!--<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>-->
 										<li><a href="https://github.com/chyb627" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 										<!-- <li><a href="#" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>-->
+										<li><a href="https://chyb627.devdojo.com/" class="icon brands fa-blogger"><span class="label">Blog</span></a></li>
 									</ul>
 								</li>
 							</ul>
