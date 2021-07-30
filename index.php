@@ -22,7 +22,9 @@
 					<section class="intro">
 						<header>
 							<h1>개발하는 차영빈</h1>
-							<p><h2>포토폴리오</h2><br><a href="https://chyb627.devdojo.com">🔥블로그🔥</a> <br> <a href="http://13.124.211.186/index.php">🔥구글 클론 사이트🔥</a></p>
+							<p><h2>포토폴리오</h2><br>
+								<!--<a href="https://chyb627.devdojo.com">🔥블로그🔥</a> <br> 
+								<a href="http://13.124.211.186/index.php">🔥구글 클론 사이트🔥</a>--></p>
 							<ul class="actions">
 								<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
 							</ul>
@@ -33,35 +35,81 @@
 					</section>
 
 				<!-- Section -->
-					<section id="first">
-						<header>
-							<h2>profile</h2>
-							<img src="images/profile2.JPG" alt="" /></span>
-						</header>
-						<div class="content">
-							<p><strong>학력</strong><br> 강원대학교 산업경영공학과 졸업 (2011.03~2019.08)</p>
-							<p><strong>경력사항</strong><br>
-							마인드원 사원 SCADA/HMI (2020.12~2021.06)<br>
-							우리젠 인턴 Flutter, JavaScript 개발 (2020.08~2020.12)
+				<section>
+					<header>
+						<h2>introduction</h2>
+					</header>
+					<div class="content">
+						<p>안녕하세요. 신입개발자 차영빈입니다</p>
+						<p>코딩의 매력에 빠져서 푹 빠져있습니다🧑🏻‍💻</p>
+						<p>제 장점인 꾸준함을 통해 1일 1커밋에 도전중입니다!</p>
+						<p>코딩하기, 운동, 소통에 관심이 많습니다</p>
+					</div>
+				</section>
+
+				<!-- Section -->
+				<section id="first">
+					<header>
+						<h2>profile</h2>
+						<img src="images/profile2.JPG" alt="" /></span>
+					</header>
+					<div class="content">
+						<p><strong>학력</strong><br> 강원대학교 산업경영공학과 졸업 (2011.03~2019.08)</p>
+						<p><strong>경력사항</strong><br>
+						마인드원 사원 SCADA/HMI (2020.12~2021.06)<br>
+						우리젠 인턴 Flutter, JavaScript 개발 (2020.08~2020.12)
+						</p>
+						<p><strong>교육사항</strong><br>
+						싸이몬 CIMON SCADA 기본 (총 12시간)<br>
+						EMS분야 맞춤형 실무자 양성 교육 (총 396시간)
+						</p>
+						<p><strong>수상경력</strong><br>
+						통신 주특기대회 우승 대대장 표창장 <br>
+						EMS 교육과정 모범상
+						</p>
+						<p><strong>자격사항</strong><br>
+						정보처리기사 필기 (2021.03)<br>
+						한국사능력검정시험 2급 (2016.01)
+						</p>
+						<p><strong>어학사항</strong><br>
+						TOEIC 695점 (2019.12)
+						</p>			
+					</div>
+				</section>
+			
+				<!-- Section -->
+				<section>
+					<header>
+						<h2>project</h2>
+						
+					</header>
+					<div class="content">
+
+						<p>
+						<strong>Work Experience & Projects<br>우리젠 개발부 인턴 근무 (2020.08 ~2020.12)</strong><br>
+						<strong>프로젝트명: </strong>빌딩자동제어 소프트웨어 개발<br> 
+						<strong>사용기술: </strong>Flutter, JavaScript<br> 
+						<strong>프로젝트소개: </strong><br>건물 자동제어 시스템 BAS(Building Automation System)는 빌딩 내 공조기, 
+						기계설비, 전력, 조명 등의 시스템을 실시간 모니터링하고 제어하는 소프트웨어 시스템입니다.<br> 
+						<strong>담당업무: </strong><br>1. Flutter 위젯, 라이브러리 기반 화면구성 <br>
+						2. JSON으로 현장과 설정태그값 key, value 매칭<br>
+						3. Script로 자동제어 시나리오 로직 코딩
+						<span class="image main"><img src="images/project1.png" alt="" /></span>
+						<span class="image main"><img src="images/project2.png" alt="" /></span>
+						<!--<span class="image main"><img src="images/project3.png" alt="" /></span>
+						<span class="image main"><img src="images/project4.png" alt="" /></span>-->
+						</p>
+						<p>
+							<strong>Personal Experience & Projects (2021.07)</strong><br>
+							<strong>프로젝트명: </strong>Rest Api 만들기<br> 
+							<strong>사용기술: </strong>JavaScript<br> 
+							<strong>프로젝트소개: </strong><br>자바스크립트로 NodeJS 기반 expressJS를 사용해서 Rest Api를 만들어 보았습니다<br>
+							데이터베이스 ORM은 Sequelize를 사용하였습니다							
+							<span class="image main"><img src="images/rest3.png" alt="" /></span>
+							<span class="image main"><img src="images/rest4.png" alt="" /></span>
 							</p>
-							<p><strong>교육사항</strong><br>
-							싸이몬 CIMON SCADA 기본 (총 12시간)<br>
-							한국BEMS 에너지관리시스템(EMS) (총 396시간)
-							</p>
-							<p><strong>수상경력</strong><br>
-							통신 주특기대회 우승 대대장 표창장 (2012.08)<br>
-							EMS 교육과정 모범상 (2020.07)
-							</p>
-							<p><strong>자격사항</strong><br>
-							정보처리기사 필기 (2021.03)<br>
-							한국사능력검정시험 2급 (2016.01)
-							</p>
-							<p><strong>어학사항</strong><br>
-							TOEIC 695점 (2019.12)
-							</p>
-							<span class="image main"><img src="images/profile3.jpg" alt="" /></span>
-						</div>
-					</section>
+					</div>
+				</section>
 
 				<!-- Section -->
 					<section>
@@ -82,57 +130,10 @@
 							"샤방 양재천 라이딩 (2020.5~현재)" <br>
 							"일원동 헬스 모임 (2019.12~현재)"
 							</p>
-						</div>11
-					</section>
-
-				<!-- Section -->
-					<section>
-						<header>
-							<h2>Why Programmer?</h2>
-						</header>
-						<div class="content">
-							<p>EMS 교육 과정을 통해 프로그래밍에 관심이 생겼습니다. 
-								교육에서 C언어와 파이썬, R언어를 공부하였고, 
-								인턴을 통해 Flutter를 이용한 소프트웨어 개발과 
-								자바 스크립트를 이용한 로직 구성을 하면서, 코딩에 관심을 갖게 되었고,
-								코딩을 통해 결과물을 만들면서 재미를 느꼈습니다.
-								현업을 통하여 더욱 발전하고 지속적인 공부로 멋진 개발자가 되겠습니다.</p>
+							<span class="image main"><img src="images/profile3.jpg" alt="" /></span>
 						</div>
 					</section>
 
-				<!-- Section -->
-					<section>
-						<header>
-							<h2>project</h2>
-							
-						</header>
-						<div class="content">
-
-							<p>
-							<strong>우리젠 개발부 인턴 근무 (2020.08 ~2020.12)</strong><br>
-							<strong>프로젝트명: </strong>자동제어 소프트웨어 개발<br> 
-							<strong>사용기술: </strong>Flutter<br> 
-							<strong>프로젝트소개: </strong>빌딩 내 기기 (펌프, 보일러, 공조기 등) 자동제어 프로그램 개발<br> 
-							<strong>담당업무: </strong>Flutter를 활용하여 메뉴 창 구성, 스케줄 및 알람 페이지의 Flont 부분 코딩 (위젯, 라이브러리 사용)<br>
-							<span class="image main"><img src="images/project1.png" alt="" /></span>
-							</p>
-							
-							<p>
-								<strong>우리젠 개발부 인턴 근무 (2020.08 ~2020.12)</strong><br>
-								<strong>프로젝트명: </strong>퇴계원 종합행정타운 자동제어 스크립트 작성<br> 
-								<strong>사용기술: </strong>JavaScript<br> 
-								<strong>프로젝트소개: </strong>빌딩 내 기기 (펌프, 보일러, 공조기 등) 자동제어 프로그램 개발<br> 
-								<strong>담당업무: </strong>퇴계원 종합행정타운 빌딩의 장비 (보일러, 저수조, 우수조, FAN 등)
-								들을 맵핑시키고 Getval, Setval를 통해서 자동제어 스크립트(보일러의 펌프교번제어, 우수조의 수위
-								 조절 제어, 일산화탄소 농도에 따른 FAN가동) 작성<br> 
-								 <span class="image main"><img src="images/project2.png" alt="" /></span>
-								 <span class="image main"><img src="images/project3.png" alt="" /></span>
-								 <span class="image main"><img src="images/project4.png" alt="" /></span>
-								</p>
-						</div>
-					</section>
-
-							
 				<!-- Elements -->
 				<!--
 					<section>
