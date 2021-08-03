@@ -22,7 +22,8 @@
 					<section class="intro">
 						<header>
 							<h1>개발하는 차영빈</h1>
-							<p><h3>포토폴리오<br><br>↓프로젝트 aws 연결↓</h3> 
+							<p><h3>포토폴리오<br><br>↓프로젝트(상시업데이트중..)↓</h3> 
+								<a href="http://13.124.94.200:8080/">웹사이트🔥</a> <br> 
 								<a href="http://13.124.194.108:3000/user">restApi🔥</a> <br> 
 								<a href="http://13.124.211.186/index.php">구글 클론 사이트🔥</a></p>
 							<ul class="actions">
