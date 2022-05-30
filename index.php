@@ -7,7 +7,7 @@
 <html>
 
 <head>
-	<title>차영빈 포토폴리오🔥</title>
+	<title>개발자 차영빈 😎</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<meta name="description" content="" />
@@ -25,9 +25,9 @@
 			<header>
 				<h1>개발하는 차영빈</h1>
 				<p>
-				<h3>포토폴리오<br><br>↓프로젝트(업데이트중..)↓</h3>
-				<a href="http://13.124.94.200:8080/">👉🏻웹사이트(NodeJS)</a> <br>
-				<a href="http://3.35.149.24/">👉🏻웹사이트(Laravel)</a> <br>
+				<h2>포토폴리오<br><br></h2>
+				<a href="https://github.com/chyb627">🐱 GITHUB</a> <br>
+				<a href="https://drive.google.com/drive/folders/1UZhog3_RQXACqx_6nbeNcf0W2YH43Mlb?usp=sharing">👉🏻 RN APK</a> <br>
 				<ul class="actions">
 					<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
 				</ul>
@@ -43,10 +43,10 @@
 				<h2>introduction</h2>
 			</header>
 			<div class="content">
-				<p>안녕하세요. 신입개발자 차영빈입니다</p>
-				<p>코딩의 매력에 빠져서 푹 빠져있습니다🧑🏻‍💻</p>
-				<p>제 장점인 꾸준함을 통해 1일 1커밋에 도전중입니다!</p>
-				<p>코딩하기, 운동, 소통에 관심이 많습니다</p>
+				<p>안녕하세요. 개발자 차영빈입니다</p>
+				<p>React, ReactNative, NextJS, tailwindcss, mobx, typescript, recoil, RNN 등을 사용하여</p>
+				<p>웹,앱 전반적인 프론트 개발업무를 담당하고있습니다.</p>
+				<p>특히 ReactNative를 활용하여 앱을 개발하는데 관심이 있습니다.</p>
 			</div>
 		</section>
 
@@ -59,7 +59,7 @@
 			<div class="content">
 				<p><strong>학력</strong><br> 강원대학교 산업경영공학과 졸업 (2011.03~2019.08)</p>
 				<p><strong>경력사항</strong><br>
-					마인드원 사원 SCADA/HMI (2020.12~2021.06)<br>
+					브릭 개발자 React, ReactNative (2021.08~)<br>
 					우리젠 인턴 Flutter, JavaScript 개발 (2020.08~2020.12)
 				</p>
 				<p><strong>교육사항</strong><br>
@@ -87,6 +87,45 @@
 
 			</header>
 			<div class="content">
+				<p>
+					<strong>Work Experience & Projects<br><br>브릭 개발자</strong><br>
+					<strong>프로젝트명: </strong>오늘우리가게 관리자웹 (2022.03 ~  )<br>
+					<strong>사용기술: </strong>NextJs, TypeScript, recoil, tailwindcss, storybook<br>
+					<strong>프로젝트소개: </strong><br> BBQ 가맹점 주간매출, 주문, 가맹점매출, 시간별주문 등의 정보 관리<br>
+					<strong>담당업무: </strong><br> 화면 전체 개발을 담당하였고, API를 연동하여 데이터를 차트나 표로 가시화하여 볼 수 있도록 개발하였습니다. recoil을 활용하여 state를 전역으로 관리할 수 있도록 하였습니다.<br><br>
+					<a href="https://bbq.h-brick.com/">관리자웹 링크</a>
+					<span class="image main"><img src="images/project3.png" alt="" /></span>
+					<span class="image main"><img src="images/project4.png" alt="" /></span>
+					<span class="image main"><img src="images/project5.png" alt="" /></span>
+				</p>
+
+				<p>
+					<br><br><strong>프로젝트명: </strong>오늘우리가게 앱 (2022.03 ~  )<br>
+					<strong>사용기술: </strong>ReactNative, tailwindcss, mobx, storybook, RNN<br>
+					<strong>프로젝트소개: </strong><br> 매장 분석 및 매장 통합 관리 앱<br>
+					<strong>담당업무: </strong><br> 화면 개발 및 수정을 담당하였고, API연결, Storybook을 이용하여 UI 컴포넌트를 Story로 구성하였습니다. Story를 구성하여 컴포넌트가 어떻게 사용될 수 있을지를 알아보기 쉽게 하였습니다. RNN을 사용하였고, 코드푸시, 스토어푸시를 통한 배포경험이 있습니다<br><br>
+					<a href="https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9A%B0%EB%A6%AC%EA%B0%80%EA%B2%8C/id1578647753/">🍎 앱스토어</a><br>
+					<a href="https://play.google.com/store/apps/details?id=com.brick.woorigg">📱 플레이스토어</a>
+				</p>
+
+				<p>
+					<br><br><strong>프로젝트명: </strong>세친구 앱 / 알바친구 앱 (2021.11 ~ 2022.02)<br>
+					<strong>사용기술: </strong>ReactNative, tailwindcss, mobx, RNN<br>
+					<strong>프로젝트소개: </strong><br> 세무관리앱 / 근로자 및 고용주 근로계약서 관리<br>
+					<strong>담당업무: </strong><br>화면 개발 및 수정을 담당하였고, 오류수정 및 퇴직기능 추가를 하였습니다.<br><br>
+				</p>
+
+				<p>
+					<br><br><strong>프로젝트명: </strong>보이는 전화 주문 웹/ 사장님 관리앱 (2021.08 ~ 2021.11)<br>
+					<strong>사용기술: </strong>React, ReactNative, tailwindcss, mobx<br>
+					<strong>프로젝트소개: </strong><br> 고객이 전화를 걸면 URL로 연결하여 별도의 앱 설치 없이 브라우저를 통해 매장으로 주문하는 웹.
+					프렌차이즈 가맹점 사장님이 관리 전용 앱<br>
+					<strong>담당업무: </strong><br>1. 화면 개발 및 수정<br>
+					2. API 연동 및 데이터 연결<br>
+					3. 결제화면 상품권 및 금액권 쿠폰 입력 및 포인트 사용 처리 프로세스 개발<br>
+					4. 오류 수정 및 유지보수<br><br>
+				</p>
+
 
 				<p>
 					<strong>Work Experience & Projects<br>우리젠 개발부 인턴 근무 (2020.08 ~2020.12)</strong><br>
@@ -101,24 +140,6 @@
 					<span class="image main"><img src="images/project2.png" alt="" /></span>
 					<!--<span class="image main"><img src="images/project3.png" alt="" /></span>
 						<span class="image main"><img src="images/project4.png" alt="" /></span>-->
-				</p>
-				<p>
-					<strong>Personal Experience & Projects (2021.07~)</strong><br>
-					<strong>프로젝트명: </strong>웹사이트 만들기<br>
-					<strong>사용기술: </strong>JavaScript, Css, nodejs, express, aws, jQuery<br>
-					<strong>프로젝트소개: </strong><br>nodejs를 사용하여 자바스크립트로 서버 프로그래밍 하고, request하면 특정 메뉴, 버튼을 클릭할 때 서버에 어떤 기능과
-					매핑을 결정해주는 라우팅을 정해줍니다. HTTP의 주요 기능인 Get, Post, Put, Delete를 요청을 활용하였습니다. 웹사이트를 만들고 aws로 사이트를 배포하였습니다.
-					계속 업데이트 작업중에 있습니다
-					<span class="image main"><img src="images/project3.png" alt="" /></span>
-					<span class="image main"><img src="images/project4.png" alt="" /></span>
-				</p>
-				<p>
-					<strong>Personal Experience & Projects (2021.08~)</strong><br>
-					<strong>프로젝트명: </strong>웹사이트 만들기2<br>
-					<strong>사용기술: </strong>PHP, Laravel, asw, mysql<br>
-					<strong>프로젝트소개: </strong><br>php laravel을 활용하여 로그인 및회원가입 화면, 블로그 화면 만들기 프로젝트 진행중이고, 계속 업데이트 작업중에
-					있습니다.
-					<span class="image main"><img src="images/project5.png" alt="" /></span>
 				</p>
 			</div>
 	</section>
@@ -138,37 +159,6 @@
 				<li class="icon solid fa-hiking">Hiking</li>
 				<li class="icon solid fa-video">Movie</li>
 			</ul>
-			<p><strong>동호회 활동</strong><br>
-				"샤방 양재천 라이딩 (2020.5~현재)" <br>
-				"일원동 헬스 모임 (2019.12~현재)"
-			</p>
-			<span class="image main"><img src="images/profile3.jpg" alt="" /></span>
-		</div>
-	</section>
-
-	<!-- Section -->
-	<section>
-		<header>
-			<h2>Get in touch</h2>
-		</header>
-		<div class="content">
-			<p><strong>Get in touch with me</strong> </p>
-			<form>
-				<div class="fields">
-					<div class="field half">
-						<input type="text" name="name" id="name" placeholder="Name" />
-					</div>
-					<div class="field half">
-						<input type="email" name="email" id="email" placeholder="Email" />
-					</div>
-					<div class="field">
-						<textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
-					</div>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="button primary" /></li>
-				</ul>
-			</form>
 		</div>
 		<footer>
 			<ul class="items">
@@ -189,7 +179,7 @@
 					<ul class="icons">
 						<!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li> -->
-						<li><a href="https://www.instagram.com/chabiri" class="icon brands fa-instagram"><span
+						<li><a href="https://www.rocketpunch.com/@chyb627" class="icon brands fa-instagram"><span
 									class="label">Instagram</span></a></li>
 						<!--<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>-->
 						<li><a href="https://github.com/chyb627" class="icon brands fa-github"><span
@@ -203,12 +193,6 @@
 		</footer>
 	</section>
 
-	<!-- Copyright 
-					<div class="copyright">&copy; Untitled. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>.</div>
-
-			</div>-->
-
-	<!-- Scripts -->
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/jquery.scrolly.min.js"></script>
 	<script src="assets/js/browser.min.js"></script>
